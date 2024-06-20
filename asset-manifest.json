@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/cusd-transfer-app/static/css/main.516779bb.css",
+    "main.js": "/cusd-transfer-app/static/js/main.14e926ab.js",
+    "static/js/55.40b313b8.chunk.js": "/cusd-transfer-app/static/js/55.40b313b8.chunk.js",
+    "index.html": "/cusd-transfer-app/index.html",
+    "main.516779bb.css.map": "/cusd-transfer-app/static/css/main.516779bb.css.map",
+    "main.14e926ab.js.map": "/cusd-transfer-app/static/js/main.14e926ab.js.map",
+    "55.40b313b8.chunk.js.map": "/cusd-transfer-app/static/js/55.40b313b8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.516779bb.css",
+    "static/js/main.14e926ab.js"
+  ]
+}
